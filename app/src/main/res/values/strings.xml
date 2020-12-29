@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="tuksums"> </string>
+    <string name="nulle">0</string>
+    <string name="viens">1</string>
+    <string name="divi">2</string>
+    <string name="tris">3</string>
+    <string name="cetri">4</string>
+    <string name="pieci">5</string>
+    <string name="sesi">6</string>
+    <string name="septini">7</string>
+    <string name="astoni">8</string>
+    <string name="devini">9</string>
+    <string name="plus">+</string>
+    <string name="minuss">-</string>
+    <string name="reizinat">*</string>
+    <string name="dalit">/</string>
+    <string name="vienads">=</string>
+    <string name="c">C</string>
+    <string name="ac">AC</string>
+    <string name="punkts">.</string>
+    <string name="MS">MS</string>
+    <string name="MR">MR</string>
+    <string name="MC">MC</string>
+    <string name="neg">+/-</string>
+
+
+
+
+</resources>

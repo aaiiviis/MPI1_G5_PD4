@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1d1d1d</color>
+    <color name="colorPrimaryDark">#1d1d1d</color>
+    <color name="colorAccent">#0D4F4C</color>
+    <color name="colorAccentB">#96FFFB</color>
+    <color name="colorCipari">#474747</color>96FFFB
+    <color name="colorCipariB">#525252</color>
+    <color name="colorOperacijas">#13807b</color>
+    <color name="colorOperacijasB">#68b0ae</color>
+    <color name="colorVienads">#4F0D0D</color>
+    <color name="colorVienadsB">#13807b</color>
+    <color name="colorAtmina">#824515</color>
+    <color name="colorBlack">#1d1d1d</color>
+</resources>
